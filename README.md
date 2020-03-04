@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://app.netlify.com/sites/stupefied-brattain-5e1cd7/overview]()
+* Link to the website deployed on Netlify : [Link](https://app.netlify.com/sites/stupefied-brattain-5e1cd7/overview)
